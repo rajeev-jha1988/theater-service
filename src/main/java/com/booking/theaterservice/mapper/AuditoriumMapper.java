@@ -1,9 +1,9 @@
-package com.example.theaterservice.mapper;
+package com.booking.theaterservice.mapper;
 
 
-import com.example.theaterservice.dto.v1.AuditoriumDetailDto;
-import com.example.theaterservice.dto.v1.AuditoriumDto;
-import com.example.theaterservice.entity.Auditorium;
+import com.booking.theaterservice.dto.v1.AuditoriumDto;
+import com.booking.theaterservice.entity.Auditorium;
+import com.booking.theaterservice.dto.v1.AuditoriumDetailDto;
 import java.util.List;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;

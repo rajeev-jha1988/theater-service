@@ -1,8 +1,7 @@
-package com.example.theaterservice.service.v1;
+package com.booking.theaterservice.service.v1;
 
-import com.example.theaterservice.dto.v1.AuditoriumDetailDto;
-import com.example.theaterservice.dto.v1.AuditoriumDto;
-import com.example.theaterservice.entity.Auditorium;
+import com.booking.theaterservice.dto.v1.AuditoriumDto;
+import com.booking.theaterservice.dto.v1.AuditoriumDetailDto;
 import java.util.List;
 
 public interface AuditoriumService {

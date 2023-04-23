@@ -1,7 +1,7 @@
-package com.example.theaterservice.mapper;
+package com.booking.theaterservice.mapper;
 
-import com.example.theaterservice.dto.v1.CityDto;
-import com.example.theaterservice.entity.City;
+import com.booking.theaterservice.dto.v1.CityDto;
+import com.booking.theaterservice.entity.City;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 

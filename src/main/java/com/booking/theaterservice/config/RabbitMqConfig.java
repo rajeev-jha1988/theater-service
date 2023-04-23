@@ -1,4 +1,4 @@
-package com.example.theaterservice.config;
+package com.booking.theaterservice.config;
 
 import org.springframework.amqp.rabbit.connection.ConnectionFactory;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;

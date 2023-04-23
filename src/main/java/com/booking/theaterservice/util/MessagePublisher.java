@@ -1,8 +1,8 @@
-package com.example.theaterservice.util;
+package com.booking.theaterservice.util;
 
-import com.example.theaterservice.dto.v1.message.BookingMessageDto;
-import com.example.theaterservice.enums.EventType;
-import com.example.theaterservice.exceptions.TheaterServiceException;
+import com.booking.theaterservice.dto.v1.message.BookingMessageDto;
+import com.booking.theaterservice.enums.EventType;
+import com.booking.theaterservice.exceptions.TheaterServiceException;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package com.example.theaterservice.exceptions;
+package com.booking.theaterservice.exceptions;
 
 import java.util.AbstractMap;
 import org.slf4j.Logger;

@@ -1,11 +1,11 @@
-package com.example.theaterservice.controller;
+package com.booking.theaterservice.controller;
 
 
-import com.example.theaterservice.dto.v1.AuditoriumDetailDto;
-import com.example.theaterservice.dto.v1.AuditoriumDto;
-import com.example.theaterservice.dto.v1.TheatreDto;
-import com.example.theaterservice.service.v1.AuditoriumService;
-import com.example.theaterservice.service.v1.TheatreService;
+import com.booking.theaterservice.dto.v1.AuditoriumDetailDto;
+import com.booking.theaterservice.dto.v1.AuditoriumDto;
+import com.booking.theaterservice.dto.v1.TheatreDto;
+import com.booking.theaterservice.service.v1.AuditoriumService;
+import com.booking.theaterservice.service.v1.TheatreService;
 import io.swagger.annotations.Api;
 import java.util.List;
 import javax.validation.Valid;

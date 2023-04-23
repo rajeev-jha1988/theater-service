@@ -1,7 +1,7 @@
-package com.example.theaterservice.service.v1;
+package com.booking.theaterservice.service.v1;
 
-import com.example.theaterservice.dto.v1.CityDto;
-import com.example.theaterservice.entity.City;
+import com.booking.theaterservice.entity.City;
+import com.booking.theaterservice.dto.v1.CityDto;
 
 public interface CityService {
 

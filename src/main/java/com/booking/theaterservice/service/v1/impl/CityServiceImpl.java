@@ -1,10 +1,10 @@
-package com.example.theaterservice.service.v1.impl;
+package com.booking.theaterservice.service.v1.impl;
 
-import com.example.theaterservice.dto.v1.CityDto;
-import com.example.theaterservice.entity.City;
-import com.example.theaterservice.mapper.CityMapper;
-import com.example.theaterservice.repository.CityRepository;
-import com.example.theaterservice.service.v1.CityService;
+import com.booking.theaterservice.dto.v1.CityDto;
+import com.booking.theaterservice.entity.City;
+import com.booking.theaterservice.mapper.CityMapper;
+import com.booking.theaterservice.repository.CityRepository;
+import com.booking.theaterservice.service.v1.CityService;
 import java.util.Optional;
 import org.springframework.stereotype.Service;
 

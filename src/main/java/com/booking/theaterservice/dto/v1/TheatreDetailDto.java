@@ -1,4 +1,4 @@
-package com.example.theaterservice.dto.v1;
+package com.booking.theaterservice.dto.v1;
 
 import java.util.List;
 import lombok.AllArgsConstructor;

@@ -1,4 +1,4 @@
-package com.example.theaterservice;
+package com.booking.theaterservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

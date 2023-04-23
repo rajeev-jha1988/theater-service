@@ -1,4 +1,4 @@
-package com.example.theaterservice.entity;
+package com.booking.theaterservice.entity;
 
 import java.io.Serializable;
 import javax.persistence.Column;

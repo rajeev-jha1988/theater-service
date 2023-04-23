@@ -1,7 +1,7 @@
-package com.example.theaterservice.controller;
+package com.booking.theaterservice.controller;
 
-import com.example.theaterservice.dto.v1.CityDto;
-import com.example.theaterservice.service.v1.CityService;
+import com.booking.theaterservice.dto.v1.CityDto;
+import com.booking.theaterservice.service.v1.CityService;
 import io.swagger.annotations.Api;
 import javax.validation.Valid;
 import org.springframework.http.ResponseEntity;

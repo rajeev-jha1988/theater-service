@@ -1,4 +1,4 @@
-package com.example.theaterservice.config;
+package com.booking.theaterservice.config;
 
 import io.swagger.annotations.Api;
 import org.springframework.context.annotation.Bean;

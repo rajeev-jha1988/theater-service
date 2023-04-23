@@ -1,4 +1,4 @@
-package com.example.theaterservice.dto.v1;
+package com.booking.theaterservice.dto.v1;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,16 +1,16 @@
-package com.example.theaterservice.service.v1.impl;
+package com.booking.theaterservice.service.v1.impl;
 
-import com.example.theaterservice.dto.v1.AuditoriumDetailDto;
-import com.example.theaterservice.dto.v1.AuditoriumDto;
-import com.example.theaterservice.dto.v1.message.AuditoriumMessageDto;
-import com.example.theaterservice.entity.Auditorium;
-import com.example.theaterservice.entity.Theatre;
-import com.example.theaterservice.enums.EventType;
-import com.example.theaterservice.mapper.AuditoriumMapper;
-import com.example.theaterservice.repository.AuditoriumRepository;
-import com.example.theaterservice.service.v1.AuditoriumService;
-import com.example.theaterservice.service.v1.TheatreService;
-import com.example.theaterservice.util.MessagePublisher;
+import com.booking.theaterservice.dto.v1.AuditoriumDto;
+import com.booking.theaterservice.dto.v1.message.AuditoriumMessageDto;
+import com.booking.theaterservice.entity.Auditorium;
+import com.booking.theaterservice.entity.Theatre;
+import com.booking.theaterservice.enums.EventType;
+import com.booking.theaterservice.repository.AuditoriumRepository;
+import com.booking.theaterservice.service.v1.TheatreService;
+import com.booking.theaterservice.util.MessagePublisher;
+import com.booking.theaterservice.dto.v1.AuditoriumDetailDto;
+import com.booking.theaterservice.mapper.AuditoriumMapper;
+import com.booking.theaterservice.service.v1.AuditoriumService;
 import java.util.List;
 import org.springframework.stereotype.Service;
 

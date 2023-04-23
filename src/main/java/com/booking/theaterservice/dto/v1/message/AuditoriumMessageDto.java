@@ -1,4 +1,4 @@
-package com.example.theaterservice.dto.v1.message;
+package com.booking.theaterservice.dto.v1.message;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,14 +1,14 @@
-package com.example.theaterservice.service.v1.impl;
+package com.booking.theaterservice.service.v1.impl;
 
-import com.example.theaterservice.dto.v1.TheatreDto;
-import com.example.theaterservice.entity.City;
-import com.example.theaterservice.entity.Theatre;
-import com.example.theaterservice.enums.EventType;
-import com.example.theaterservice.mapper.TheatreMapper;
-import com.example.theaterservice.repository.TheatreRepository;
-import com.example.theaterservice.service.v1.CityService;
-import com.example.theaterservice.service.v1.TheatreService;
-import com.example.theaterservice.util.MessagePublisher;
+import com.booking.theaterservice.dto.v1.TheatreDto;
+import com.booking.theaterservice.enums.EventType;
+import com.booking.theaterservice.repository.TheatreRepository;
+import com.booking.theaterservice.service.v1.TheatreService;
+import com.booking.theaterservice.util.MessagePublisher;
+import com.booking.theaterservice.entity.City;
+import com.booking.theaterservice.entity.Theatre;
+import com.booking.theaterservice.mapper.TheatreMapper;
+import com.booking.theaterservice.service.v1.CityService;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 

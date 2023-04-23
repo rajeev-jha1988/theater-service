@@ -1,4 +1,4 @@
-package com.example.theaterservice.enums;
+package com.booking.theaterservice.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
